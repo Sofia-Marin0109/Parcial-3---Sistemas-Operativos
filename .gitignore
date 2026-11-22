@@ -1,0 +1,17 @@
+# Compilación de C y del kernel
+/build/
+*.o
+*.ko
+*.mod
+*.mod.c
+.*.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+vmlinux.h
+*.skel.h
+
+# Archivos y resultados de pruebas locales
+/results/
+*.log
+__pycache__/

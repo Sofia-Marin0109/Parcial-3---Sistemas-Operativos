@@ -1,0 +1,17 @@
+Sun Nov 15 22:32:14 UTC 2026
+Linux (none) 6.12.107+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.107-1 (2026-08-29) x86_64 GNU/Linux
+/dev/vda /mnt ext4 rw,relatime 0 0
+lockdown,capability,landlock,yama,apparmor,tomoyo,bpf,ipe,ima,evm
+CONFIG_BPF_LSM=y
+CONFIG_DEBUG_INFO_BTF=y
+BTF_TARGET=/sys/kernel/btf/vmlinux bytes=4964214
+4096
+2
+gcc (Debian 14.2.0-19) 14.2.0
+Debian clang version 19.1.7 (3+b1)
+GNU Make 4.4.1
+bpftool v7.5.0
+using libbpf v1.5
+features:
+perf version 6.12.107
+strace -- version 6.13

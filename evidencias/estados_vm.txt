@@ -1,0 +1,8 @@
+CHECK_STATUS entorno_vm 0
+CHECK_STATUS compilacion_vm 0
+CHECK_STATUS verificador_bpf 0
+CHECK_STATUS enlaces_bpf 0
+CHECK_STATUS fallo_conexion_bpf 0
+CHECK_STATUS smoke_vm 0
+CHECK_STATUS rendimiento 0
+EVIDENCE_VM_STATUS=0
